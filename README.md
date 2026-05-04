@@ -28,4 +28,4 @@ SOC Analyst L1/L2 | MDR Analyst |
 Security Automation Engineer
 
 ## Author
-[Your Name] — Fresher | Security Automation
+Varun — Fresher | Security Automation
