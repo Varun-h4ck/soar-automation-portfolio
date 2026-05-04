@@ -62,14 +62,6 @@ replaces what used to take a analyst
 several minutes of manual VirusTotal
 lookups.
 
-## Interview Talking Point
-> "I built a hash enrichment workflow that
-> checks file hashes against 74 AV engines
-> automatically. When I tested it with the
-> EICAR test file, 65 out of 74 engines
-> flagged it as malicious with zero false
-> negatives — confirmed by two independent
-> sandbox environments."
 
 ## MITRE ATT&CK Reference
 | Technique | ID | Relevance |
