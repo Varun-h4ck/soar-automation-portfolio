@@ -20,7 +20,7 @@ analyst and security automation skills.
 | WF01 | IP Enrichment | ✅ Complete | Shuffle, VirusTotal |
 | WF02 | Domain Enrichment | ✅ Complete | Shuffle, VirusTotal |
 | WF03 | File Hash Lookup | ✅ Complete | Shuffle, VirusTotal |
-| WF04 | Brute Force Detection | ⏳ Planned | Shuffle, Wazuh |
+| WF04 | Brute Force Detection | ✅ Complete| Shuffle, Wazuh |
 | WF05 | New User Alert | ⏳ Planned | Shuffle, Wazuh |
 
 ## Target Role
