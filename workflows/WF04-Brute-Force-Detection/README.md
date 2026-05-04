@@ -40,3 +40,6 @@ fakeuser@127.0.0.1 2>/dev/null; done
 - Response time: Under 2 seconds
 
 ## Email Alert Sample
+From: email-app@shuffler.io
+Subject: PAM: User login failed.
+Body: May 4 19:19:08 ubuntu sshd:pam_unix(sshd:auth):authentication failure
