@@ -21,7 +21,7 @@ analyst and security automation skills.
 | WF02 | Domain Enrichment | ✅ Complete | Shuffle, VirusTotal |
 | WF03 | File Hash Lookup | ✅ Complete | Shuffle, VirusTotal |
 | WF04 | Brute Force Detection | ✅ Complete| Shuffle, Wazuh |
-| WF05 | New User Alert | ⏳ Planned | Shuffle, Wazuh |
+| WF05 | New User Alert | ✅ Complete| Shuffle, Wazuh |
 
 ## Target Role
 SOC Analyst L1/L2 | MDR Analyst |
